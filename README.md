@@ -1,0 +1,1 @@
+# This is a car dealership software developed entirely by myself for a car market that needs a well developped system. The software product contains a catalogue with a very functional filter search menu and list of available cars that are inserted from a CSV file, and also it has a sells page that allows the user to add accessories to the car and rem
