@@ -1,0 +1,23 @@
+# 02 January 2024 | Dodge Caravan (2009)
+- *Price*: 13483.15
+- *Customer*: Samuil Kozarov
+- *Phone no.*: +738274
+- *Adress no.*: Sofia
+- *Zip code & city no.*: 1619 Sofia
+- *Accessories*: DashCam, TireInflator
+---
+# 02 January 2024 | Mitsubishi Galant (1996)
+- *Price*: 17962.03
+- *Customer*: test test
+- *Phone no.*: test
+- *Adress no.*: test
+- *Zip code & city no.*: test test
+- *Accessories*: CarAirFreshener, CarCover, PortableVacuum
+---
+# 02 January 2024 | Plymouth Breeze (1996)
+- *Price*: 55496.52
+- *Customer*: test2 test2
+- *Phone no.*: test2
+- *Adress no.*: test2
+- *Zip code & city no.*: test2 test2
+---

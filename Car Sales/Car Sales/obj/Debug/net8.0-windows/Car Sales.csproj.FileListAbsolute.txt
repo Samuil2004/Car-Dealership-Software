@@ -1,0 +1,84 @@
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Car Sales.exe
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Car Sales.deps.json
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Car Sales.runtimeconfig.json
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Car Sales.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Car Sales.pdb
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.csproj.GenerateResource.cache
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.AssemblyInfoInputs.cache
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.AssemblyInfo.cs
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.csproj.CoreCompileInputs.cache
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\refint\Car Sales.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.pdb
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.genruntimeconfig.cache
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\ref\Car Sales.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car_Sales.Catalogue.resources
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car_Sales.SellACar.resources
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.csproj.AssemblyReference.cache
+C:\Users\samuilkozarov\source\repos\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.csproj.CopyComplete
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Car Sales.exe
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Car Sales.deps.json
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Car Sales.runtimeconfig.json
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Car Sales.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Car Sales.pdb
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Azure.Core.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Azure.Identity.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\System.Memory.Data.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car_Sales.Catalogue.resources
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car_Sales.SellACar.resources
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.AssemblyInfo.cs
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.csproj.CopyComplete
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\refint\Car Sales.dll
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.pdb
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\Car Sales.genruntimeconfig.cache
+\\Mac\Home\Desktop\Individual Assignment\Car Sales\Car Sales\obj\Debug\net8.0-windows\ref\Car Sales.dll
